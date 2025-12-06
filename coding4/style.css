@@ -1,0 +1,30 @@
+form {
+  margin: 3px;
+  margin-right: 0;
+  font-family: sans-serif;
+}
+fieldset {
+  width: 400px;
+}
+input {
+  width: 200px;
+  display: block;
+}
+.block {
+  padding: 6px;
+  padding-right: 0;
+  display: block;
+}
+textarea {
+  width: 200px;
+  resize: vertical;
+  max-height: 200px;
+}
+.inline {
+  display: inline-block;
+  padding: 0;
+}
+
+.button {
+  cursor: pointer;
+}
